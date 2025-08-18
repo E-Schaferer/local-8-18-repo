@@ -2,8 +2,8 @@ fileVersion: 1
 id: "23"
 mappingDefinitions:
   SAMPLE:
-    database: COALESCE_SAMPLE_DATABASE
-    schema: TPCH_SF001
+    database: EVAN_EDW
+    schema: DEV
   WORK:
     database: EVAN_EDW
     schema: STG
