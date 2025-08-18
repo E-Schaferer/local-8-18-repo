@@ -1,5 +1,11 @@
 fileVersion: 1
 id: "16"
-mappingDefinitions: {}
+mappingDefinitions:
+  SAMPLE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: SRC1
+  WORK:
+    database: EVAN_EDW
+    schema: STG
 name: Key Pair Env
 type: Environment
