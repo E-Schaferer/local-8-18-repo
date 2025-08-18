@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "9"
+mappingDefinitions:
+  SAMPLE:
+    database: COALESCE_SAMPLE_DATABASE
+    schema: SRC1
+  WORK:
+    database: EVAN_EDW
+    schema: STG
+name: New Environment
+type: Environment
